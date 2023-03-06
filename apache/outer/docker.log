@@ -1,0 +1,57 @@
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 15:44 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 15:44 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       226     7 50 16:34 ?        00:00:00 ps -ef
