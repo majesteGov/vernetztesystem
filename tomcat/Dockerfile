@@ -3,8 +3,6 @@ FROM debian:bookworm
 RUN apt-get update && apt-get -y upgrade
 RUN apt-get install -y apache2 vim less tree html2text procps sudo w3m
 RUN apt-get install -y dumb-init curl iproute2 mariadb-client openssh-server
-RUN apt-get install -y iputils-ping net-tools
-
 
 COPY myinit.sh /usr/bin
 

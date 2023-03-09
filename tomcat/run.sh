@@ -1,21 +1,21 @@
 #!/bin/bash
 
-name=apache-a
+name=tomcat-a
 
 rm -f ip-*
 mkdir -p outer/$name
-docker image build -t apache .
+docker image build -t tomcat .
 docker container stop $name
 docker container rm $name
 
-docker container create --name $name --network mynetwork --publish 82:80 --hostname $name --volume $PWD/../common/:/common/ --volume $PWD/outer/$name/:/outer apache
+docker container create --name $name --network mynetwork50 --publish 8082:80 --volume $PWD/outer/$name/:/common/outer tomcat
 docker container start $name
 ip=$(docker container exec -t $name hostname -i| tr -d '\r' )
 echo "$ip" > ip-$ip
 
 while ! ssh-keyscan $ip &>/dev/null; do echo -n .; sleep 0.2; done; echo
 
-docker container cp my.cnf $name:/root/.my.cnf
+ocker container cp my.cnf $name:/root/.my.cnf
 docker container exec -ti $name useradd -m -s /bin/bash user
 docker container exec -ti --user user $name ssh-keygen -N '' -f /home/user/.ssh/id_rsa
 
