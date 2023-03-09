@@ -18,8 +18,8 @@ echo $ip > ip-$ip
 while ! ssh-keyscan $ip &>/dev/null;do echo -n .;sleep 0.5;done; echo
 
 docker container exec -ti $name mariadb -e "create database db"
-docker container exec -ti $name mariadb -e "create user dbuser"
-docker container exec -ti $name mariadb -e "grant all privileges on *.* to user@'%' identified by 'password'"
+docker container exec -ti $name mariadb -e "create user user"
+docker container exec -ti $name mariadb -e "grant all privileges on *.* to 'user'@'%' identified by 'password'"
 docker container exec -ti $name mariadb -e "flush privileges"
 docker container exec -ti $name mariadb db -e "create table demo(id integer auto_increment primary key,name text)"
 docker container exec -ti $name mariadb db -e "insert into demo (name) values ('moin')"
