@@ -1,0 +1,106 @@
+start apache2
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:27 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:27 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       136     7  0 16:30 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:30 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:30 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       144     7  0 16:45 ?        00:00:00 ps -ef
+start apache2
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:45 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:45 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       172     7  0 16:45 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:45 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         8     1  0 16:45 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       137     8  0 16:47 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:47 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:47 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       136     7 99 16:51 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:51 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:51 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       136     7  0 16:52 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:52 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:52 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       136     7  0 17:00 ?        00:00:00 ps -ef
+start apache2
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:01 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 17:01 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       136     7  0 17:02 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:03 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 17:03 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       136     7  0 17:07 ?        00:00:00 ps -ef
+start apache2
+ping
+ping

@@ -12,11 +12,10 @@ docker image build -t haproxy .
 docker container create --name $name --network mynetwork --publish 80:80 --volume $PWD/../common/:/common/ --hostname $name --volume $PWD/outer/$name/:/outer haproxy
 docker container start $name
 
-sleep 1
 
 ip=$(docker container exec -t $name hostname -i| tr -d '\r')
 echo $ip > ip-$ip
-#while ! ssh-keyscan $ip >&/dev/null; do echo -n .; sleep 0.5; done; echo
+while ! ssh-keyscan $ip >&/dev/null; do echo -n .; sleep 0.5; done; echo
  
 	
 docker container exec -ti $name useradd -m -s /bin/bash user

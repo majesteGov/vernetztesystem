@@ -15,9 +15,8 @@ docker container start $name
 sleep 1
 ip=$(docker container exec -t $name hostname -i| tr -d '\r')
 echo "$ip" > ip-$name-$ip
-while ! ssh-keyscan $ip>&/dev/null;do echo -n .;sleep 0.5; done; echo 
+while ! ssh-keyscan $ip&>/dev/null;do echo -n .;sleep 0.5; done; echo 
 
-docker container cp my.cnf work-a:/root/.my.cnf
 docker container exec -ti $name useradd -m -s /bin/bash user
 docker container exec -ti --user user $name ssh-keygen -N '' -f /home/user/.ssh/id_rsa
 
@@ -25,4 +24,11 @@ ssh-keygen -R $ip
 ssh-keyscan $ip >> ~/.ssh/known_hosts
 cat ~/.ssh/id_rsa.pub | docker container exec -i --user user $name tee -a /home/user/.ssh/authorized_keys
 
-#ssh user@$ip "sed -i 's/\01;32m/01;31m/g' .bashrc"
+#docker container exec -i $name tar -xf- < work-etc-ssh.tar
+cat ~/.ssh/id_rsa.pub | ssh user@$ip "tee -a ~/.ssh/authorized_keys" >/dev/null
+
+ssh user@$ip "sed -i 's/\01;32m/01;31m/g' .bashrc"
+
+scp my.cnf user@$ip:
+scp testordner/test*.sh user@$ip:
+scp -r fifos user@$ip:

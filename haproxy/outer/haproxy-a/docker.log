@@ -1576,3 +1576,773 @@ root        63     1  0 19:50 ?        00:00:00 sshd: user [priv]
 user        69    63  0 19:50 ?        00:00:00 sshd: user@pts/0
 user        70    69  0 19:50 pts/0    00:00:00 -bash
 root        86     7  0 19:54 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 08:30 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 08:30 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        73     7  0 08:32 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 08:32 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 08:32 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        62     7  0 08:34 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 08:34 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 08:34 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        62     7  0 08:34 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 08:34 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 08:34 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        62     7  0 08:35 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 08:35 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 08:35 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        62     7  0 09:05 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 09:05 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 09:05 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        98     7  0 09:06 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 09:06 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 09:06 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        99     7  0 09:12 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 09:12 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 09:12 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       106     7  0 09:59 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 09:59 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 09:59 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       107     7  0 10:03 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 10:03 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 10:03 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       106     7  0 10:05 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 10:05 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 10:05 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       106     7  0 10:22 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 10:22 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 10:22 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       106     7  0 10:23 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 10:23 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 10:23 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       117     7  0 10:36 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 10:36 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 10:36 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       111     7  0 15:33 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 15:33 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 15:33 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        90     7  0 15:44 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 15:44 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 15:44 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       100     7  0 15:46 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 15:46 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 15:46 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       109     7  0 15:53 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 15:53 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 15:53 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       109     7  0 16:31 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:32 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:32 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       109     7  0 16:52 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 16:52 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 16:52 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        82     7  0 16:59 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:01 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 17:01 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        82     7  0 17:02 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping
+ping
+ping
+Stopping OpenBSD Secure Shell server: sshd.
+kill: usage: kill [-s sigspec | -n signum | -sigspec] pid | jobspec ... or kill -l [sigspec]
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:03 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 17:03 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        82     7  0 17:07 ?        00:00:00 ps -ef
+start haproxy
+[NOTICE]   (8) : haproxy version is 2.6.9-1
+[NOTICE]   (8) : path to executable is /usr/sbin/haproxy
+[ALERT]    (8) : config : [/etc/haproxy/haproxy.cfg:51] : 'server backend_brotundbutter/tomcat' : could not resolve address 'tomcat-a'.
+[ALERT]    (8) : config : Failed to initialize server(s) addr.
+ping
+ping

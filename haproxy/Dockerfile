@@ -8,7 +8,7 @@ RUN apt-get -y install openssh-server
 RUN apt-get -y install sudo vim
 
 COPY myinit.sh /usr/bin
-COPY haproxy.cfg /etc/haproxy/haproxy.cfg
+COPY haproxy.cfg /etc/haproxy/
 
 ENTRYPOINT ["/usr/bin/dumb-init","--"]
 
