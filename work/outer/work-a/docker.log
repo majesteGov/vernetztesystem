@@ -2524,3 +2524,44 @@ ssh start
 Fri Mar 10 17:07:51 UTC 2023
 ping
 ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:07 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 17:07 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        18     1  0 17:07 ?        00:00:00 sshd: /usr/sbin/sshd [listener] 0 of 10-100 startups
+root       222     7  0 17:37 ?        00:00:00 ps -ef
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 17:07 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 17:07 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       232     7  0 17:37 ?        00:00:00 ps -ef
+ssh start
+Fri Mar 10 17:37:30 UTC 2023
+ping
+ping
