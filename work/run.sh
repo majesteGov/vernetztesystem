@@ -27,8 +27,8 @@ cat ~/.ssh/id_rsa.pub | docker container exec -i --user user $name tee -a /home/
 #docker container exec -i $name tar -xf- < work-etc-ssh.tar
 cat ~/.ssh/id_rsa.pub | ssh user@$ip "tee -a ~/.ssh/authorized_keys" >/dev/null
 
-ssh user@$ip "sed -i 's/\01;32m/01;31m/g' .bashrc"
+ssh user@$ip "sed -i 's/\01;32m/01;35m/g' .bashrc"
 
-scp my.cnf user@$ip:
+scp my.cnf user@$ip: .my.cnf
 scp testordner/test*.sh user@$ip:
 scp -r fifos user@$ip:

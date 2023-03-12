@@ -134,3 +134,436 @@ ping
 ping
 ping
 ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 15:59 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 15:59 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       184     7  0 18:25 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 18:25 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 18:25 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       184     7 75 19:20 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:21 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 19:21 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       191     7  0 19:39 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:39 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 19:39 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       191     7 99 19:58 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:58 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 19:58 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       192     7  0 20:25 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 20:25 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 20:25 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       192     7  0 20:28 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping

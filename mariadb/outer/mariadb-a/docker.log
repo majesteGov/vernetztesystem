@@ -1,9 +1,96 @@
 Stopping OpenBSD Secure Shell server: sshd.
 UID        PID  PPID  C STIME TTY          TIME CMD
-root         1     0  0 17:03 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
-root         7     1  0 17:03 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
-root       407     7  0 17:07 ?        00:00:00 ps -ef
+root         1     0  0 20:24 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 20:24 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       480     7  0 20:27 ?        00:00:00 ps -ef
 start mariadb2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
 ping
 ping
 ping

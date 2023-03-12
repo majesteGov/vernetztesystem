@@ -21,8 +21,8 @@ docker container exec -ti $name mariadb -e "create database db"
 docker container exec -ti $name mariadb -e "create user user"
 docker container exec -ti $name mariadb -e "grant all privileges on *.* to 'user'@'%' identified by 'password'"
 docker container exec -ti $name mariadb -e "flush privileges"
-docker container exec -ti $name mariadb db -e "create table demo(id integer auto_increment primary key,name text)"
-docker container exec -ti $name mariadb db -e "insert into demo (name) values ('moin')"
+docker container exec -ti $name mariadb db -e "create table userinfo (id integer auto_increment primary key,vorname text,name text)"
+docker container exec -ti $name mariadb db -e "insert into userinfo (vorname,name) values ('majeste','silatsa')"
 
 docker container exec -ti $name useradd -m -s /bin/bash user
 docker container exec -ti --user user $name ssh-keygen -N '' -f /home/user/.ssh/id_rsa
@@ -30,4 +30,5 @@ docker container exec -ti --user user $name ssh-keygen -N '' -f /home/user/.ssh/
 ssh-keygen -R $ip
 ssh-keyscan $ip >> ~/.ssh/known_hosts
 cat ~/.ssh/id_rsa.pub | docker exec -i --user user $name tee -a /home/user/.ssh/authorized_keys
+scp my.cnf user@$ip:/home/user/.my.cnf 
 ssh user@$ip whoami

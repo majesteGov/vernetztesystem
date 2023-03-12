@@ -28,6 +28,8 @@ ssh-keygen -R $ip
 ssh-keyscan $ip >> ~/.ssh/known_hosts
 cat ~/.ssh/id_rsa.pub | docker exec -i --user user $name tee -a /home/user/.ssh/authorized_keys
 
+scp my.cnf user@$ip:/home/user/.my.cnf
+
 cat sudoers.d.env|docker exec -i apache-a tee -a /etc/sudoers.d/env >/dev/null
 
 docker container exec -ti $name chown user:www-data /usr/lib/cgi-bin/
