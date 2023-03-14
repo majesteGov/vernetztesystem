@@ -1650,3 +1650,227 @@ ping
 ping
 ping
 ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 20:15 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 20:15 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       343     7 50 21:13 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:13 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:13 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       242     7 50 21:14 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:14 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:14 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       243     7  0 21:42 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:42 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:42 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       240     7 99 21:47 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:47 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:47 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       241     7  0 22:21 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 22:21 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 22:21 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       232     7  0 22:23 ?        00:00:00 ps -ef
+start apache2
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 22:23 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 22:23 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       229     7  0 22:24 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 22:24 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 22:24 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       231     7  0 22:25 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+start apache2
+ping
+ping
+ping
+ping

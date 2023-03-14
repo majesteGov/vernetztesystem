@@ -30,10 +30,10 @@ cat ~/.ssh/id_rsa.pub | docker exec -i --user user $name tee -a /home/user/.ssh/
 
 scp my.cnf user@$ip:/home/user/.my.cnf
 
-cat sudoers.d.env|docker exec -i apache-a tee -a /etc/sudoers.d/env >/dev/null
-
+cat sudoers.d.env|docker exec -i $name tee -a /etc/sudoers.d/env >/dev/null
+docker container update --restart unless-stopped $name
 docker container exec -ti $name chown user:www-data /usr/lib/cgi-bin/
-docker cp cgitest.sh $name:/usr/lib/cgi-bin/
+scp cgi-script/* user@$ip:/usr/lib/cgi-bin/
 curl http://$ip/cgi-bin/cgitest.sh
 docker container cp html/ apache-a:/var/www/
 
