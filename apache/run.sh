@@ -7,13 +7,13 @@ mkdir -p outer/$name
 docker image build -t apache .
 docker container stop $name
 docker container rm $name
-# --publish 82:80 
-docker container create --name $name --network mynetwork --hostname $name --ipc shareable --volume $PWD/../common/:/common/ --volume $PWD/outer/$name/:/outer apache
+#--publish 82:80 -e ALLOWED_IP=172.28.0.3 
+docker container create --name $name --network mynetwork --hostname $name --volume $PWD/../common/:/common/ --volume $PWD/outer/$name/:/outer apache
 docker container start $name
 ip=$(docker container exec -t $name hostname -i| tr -d '\r' )
 echo "$ip" > ip-$ip
 
-while ! ssh-keyscan $ip &>/dev/null; do echo -n .; sleep 0.5; done; echo
+while ! ssh-keyscan $ip &>/dev/null; do echo -n .; sleep 0.1; done; echo
 
 docker container cp my.cnf $name:/root/.my.cnf
 docker container exec -ti $name useradd -m -s /bin/bash user

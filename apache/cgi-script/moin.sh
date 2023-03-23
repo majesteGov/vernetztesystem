@@ -10,11 +10,9 @@ vorname=${QUERY_STRING#&*=}
 vorname=${vorname##*=}
 name=${QUERY_STRING%%&*}
 name=${name#*=}
-# insert into the db
 
-mysql --user=username --password=password db << EOF
-INSERT INTO userinfo (vorname, name) VALUES ('$vorname', '$name');
-EOF
+# call the script to insert in the db 
+./adder.sh $vorname $name
 
 # Respond with a confirmation message
 echo "Hallo $vorname $name, dein Name wurde in die Datenbank gespeichert."

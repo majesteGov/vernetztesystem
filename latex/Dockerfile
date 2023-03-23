@@ -13,6 +13,7 @@ RUN apt-get -y install locales
 RUN apt-get -y install apache2
 
 RUN a2enmod proxy_http rewrite cgi
+
 RUN sed -i 's/^# *\(en_US.UTF-8\)/\1/' /etc/locale.gen
 RUN cat /etc/locale.gen
 RUN locale-gen

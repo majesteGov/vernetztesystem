@@ -723,3 +723,1626 @@ ping
 ping
 ping
 ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 05:26 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 05:26 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       193     7 50 09:03 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:02 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 19:02 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       190     7 66 20:51 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 20:51 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 20:51 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       190     7  0 20:55 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 20:55 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 20:55 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       190     7  0 21:01 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:01 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:01 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       190     7 50 21:21 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:21 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:21 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       192     7  0 21:26 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 21:26 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 21:26 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       190     7 50 22:04 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 12:05 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 12:05 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       185     7  0 12:29 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 12:29 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 12:29 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       183     7  0 12:31 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 12:31 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 12:31 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       184     7  0 12:34 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 12:34 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 12:34 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       185     7  0 12:49 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 12:49 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 12:49 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       184     7  0 12:54 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 12:54 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 12:54 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       184     7  0 13:18 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:18 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 13:18 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       183     7  0 13:35 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:35 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 13:35 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       172     7  0 13:40 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:40 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 13:40 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       173     7  0 13:44 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:44 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 13:44 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       197     7 99 13:52 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:52 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 13:52 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       172     7  0 13:58 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:58 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 13:58 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       192     7  0 14:00 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 14:00 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 14:00 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       168     7  0 14:03 ?        00:00:00 ps -ef
+start Latex
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 14:03 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 14:03 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       193     7  0 14:03 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 14:03 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 14:03 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       203     7  0 14:05 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 14:05 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 14:05 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       244     7  0 14:09 ?        00:00:00 ps -ef
+start Latex
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping

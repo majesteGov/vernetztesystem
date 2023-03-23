@@ -15,7 +15,7 @@ docker container start $name
 sleep 1
 ip=$(docker container exec -t $name hostname -i| tr -d '\r')
 echo "$ip" > ip-$name-$ip
-while ! ssh-keyscan $ip&>/dev/null;do echo -n .;sleep 0.5; done; echo 
+while ! ssh-keyscan $ip&>/dev/null;do echo -n .;sleep 0.1; done; echo 
 
 docker container exec -ti $name useradd -m -s /bin/bash user
 docker container exec -ti --user user $name ssh-keygen -N '' -f /home/user/.ssh/id_rsa

@@ -15,7 +15,7 @@ docker container start $name
 ip=$(docker container exec -t $name hostname -i| tr -d '\r' )
 echo $ip > ip-$ip
 
-while ! ssh-keyscan $ip &>/dev/null;do echo -n .;sleep 0.5;done; echo
+while ! ssh-keyscan $ip &>/dev/null;do echo -n .;sleep 0.1;done; echo
 
 docker container exec -ti $name mariadb -e "create database db"
 docker container exec -ti $name mariadb -e "create user user"

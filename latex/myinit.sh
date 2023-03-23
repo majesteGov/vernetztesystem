@@ -11,13 +11,12 @@ function onexit {
   exit
 }
 
-echo "start apache2" >> $logfile
+echo "start Latex" >> $logfile
+
 sed -i -E 's/^(#ServerRoot.*)/\1\nServerName latexapache/g' /etc/apache2/apache2.conf
-sed -i '/^#MaxStarups.*/MaxStartups 100:100:100/g' /etc/ssh/sshd_config
-sed -i '/^#MaxSessions.*/MaxSessions 100/g' /etc/ssh/sshd_config
-service apache2 start
 
 service ssh start
+service apache2 start
 
 while true; do
   echo ping >> $logfile
