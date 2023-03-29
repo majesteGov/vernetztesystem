@@ -4,10 +4,10 @@ name=apache-a
 
 rm -f ip-*
 mkdir -p outer/$name
-docker image build -t apache .
 docker container stop $name
 docker container rm $name
-#--publish 82:80 -e ALLOWED_IP=172.28.0.3 
+docker image build -t apache .
+#--publish 82:80 -e ALLOWED_IP=172.28.0.4 
 docker container create --name $name --network mynetwork --hostname $name --volume $PWD/../common/:/common/ --volume $PWD/outer/$name/:/outer apache
 docker container start $name
 ip=$(docker container exec -t $name hostname -i| tr -d '\r' )

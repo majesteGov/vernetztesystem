@@ -8,7 +8,7 @@ docker image build -t tomcat .
 docker container stop $name
 docker container rm $name
 
-docker container create --name $name --network mynetwork --publish 8080:80 --volume $PWD/outer/$name/:/common/outer tomcat
+docker container create --name $name --network mynetwork --hostname $name --publish 8080:80 --volume $PWD/outer/$name/:/common/outer tomcat
 docker container start $name
 ip=$(docker container exec -t $name hostname -i| tr -d '\r' )
 echo "$ip" > ip-$ip
