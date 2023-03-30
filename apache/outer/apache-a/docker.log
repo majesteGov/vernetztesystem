@@ -4642,3 +4642,286 @@ ping
 ping
 ping
 ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 18:30 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 18:30 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       127     7  0 18:56 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 18:56 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 18:56 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       278     7  0 19:08 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:08 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 19:08 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       257     7  0 19:12 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+Stopping Apache httpd web server: apache2.
+Stopping OpenBSD Secure Shell server: sshd.
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 19:12 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         7     1  0 19:12 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root       249     1  0 19:19 ?        00:00:00 sshd: user [priv]
+user       255   249  0 19:19 ?        00:00:01 sshd: user@pts/0
+user       256   255  0 19:19 pts/0    00:00:00 -bash
+root       474     7 99 20:10 ?        00:00:00 ps -ef
+start apache2
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping

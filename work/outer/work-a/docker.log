@@ -5457,3 +5457,117 @@ ping
 ping
 ping
 ping
+ssh start
+Thu Mar 30 18:57:58 UTC 2023
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 18:57 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         8     1  0 18:57 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        19     1  0 18:57 ?        00:00:00 sshd: /usr/sbin/sshd [listener] 0 of 10-100 startups
+root       210     8  0 19:14 ?        00:00:00 ps -ef
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 18:57 ?        00:00:00 /usr/bin/dumb-init -- /usr/bin/myinit.sh
+root         8     1  0 18:57 ?        00:00:00 /bin/bash /usr/bin/myinit.sh
+root        19     1  0 18:57 ?        00:00:00 sshd: /usr/sbin/sshd [listener] 0 of 10-100 startups
+root       220     8  0 19:14 ?        00:00:00 ps -ef
+ssh start
+Thu Mar 30 19:14:50 UTC 2023
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping
+ping

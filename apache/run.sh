@@ -33,6 +33,8 @@ scp my.cnf user@$ip:/home/user/.my.cnf
 cat sudoers.d.env|docker exec -i $name tee -a /etc/sudoers.d/env >/dev/null
 docker container update --restart unless-stopped $name
 docker container exec -ti $name chown user:www-data /usr/lib/cgi-bin/
+
+chmod +x /cgi-script/*
 scp cgi-script/* user@$ip:/usr/lib/cgi-bin/
 curl http://$ip/cgi-bin/cgitest.sh
 docker container cp html/ apache-a:/var/www/
